@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Kraftwerk-style-synth-loop-120-bpm.wav-0b6686a60b022ff37453d90ded08f77d.sample"
+
+[deps]
+
+source_file="res://art/Kraftwerk-style-synth-loop-120-bpm.wav"
+dest_files=[ "res://.import/Kraftwerk-style-synth-loop-120-bpm.wav-0b6686a60b022ff37453d90ded08f77d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
